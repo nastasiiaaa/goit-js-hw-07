@@ -12,3 +12,29 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+
+.login-form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 32px;
+}
+
+#controls {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 32px;
+}
+
+.box-color {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.gallery {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
